@@ -11,6 +11,9 @@ public class App {
         Engine silnikDisel = new EngineBuilder()
                 .withHorsePower(2000)
                 .build();
+        Car BMWx5 = new CarBuilder()
+                .withBodyType(BodyType.HATCHBACK)
+                .buildCar();
 
 
 
