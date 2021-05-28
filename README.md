@@ -1,6 +1,11 @@
 # CarFuctions
 The project was created to show the application of design patterns. It contains three design patterns that represent a universal, proven solution to frequently occurring, repetitive design problems. It shows the relationships and dependencies between classes and objects and facilitates the creation, modification and maintenance of the source code.
 
+## Technologies
+-Java
+
+-MySql
+
 ## Types of design patterns
 
 ###  Builder
@@ -29,10 +34,7 @@ A Decorator pattern can be used to attach additional responsibilities to an obje
 
 
 
-## Technologies
--Java
 
--MySql
 
 
 License
