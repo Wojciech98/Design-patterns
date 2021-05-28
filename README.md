@@ -35,3 +35,10 @@ A Decorator pattern can be used to attach additional responsibilities to an obje
 -MySql
 
 
+License
+----
+
+MIT
+
+
+**Free Software**
